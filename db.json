@@ -1,0 +1,23 @@
+{
+    "alumnos": [
+      {
+        "id": 1,
+        "nombre": "SEBASTIAN IBARRA CAMUS",
+        "username": "se.ibarrac",
+        "password": "123456"      
+      },
+      {
+        "id": 2,
+        "nombre": "BARBARA BARRAZA",
+        "username": "ba.barraza",
+        "password": "123456"     
+      },
+      {
+        "id": 3,
+        "nombre": "DANILO GUTIERREZ",
+        "username": "da.gutierrez",
+        "password": "123456"     
+      }
+      
+    ]
+  }
